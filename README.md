@@ -1,8 +1,8 @@
-\# Beecrowd 1038 - Lanche
+# Beecrowd 1038 - Lanche
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1038 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém dois valores inteiros: o código do produto e a quantidade com
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,11 +38,11 @@ O programa apresenta o valor total da compra no formato:
 
 
 
-\*\*Total: R$ resultado\*\*
+**Total: R$ resultado**
 
 
 
-\## Autor
+## Autor
 
 
 
